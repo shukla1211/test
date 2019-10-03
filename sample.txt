@@ -2,5 +2,4 @@ echo Ankit Shukla
 date
 hello
 world
-why
-hi
+
